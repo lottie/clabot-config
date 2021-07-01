@@ -1,2 +1,4 @@
 # clabot-config
-Configuration and list of contributors for cla-bot.
+
+This repository contains configuration, including the list of contributors, for
+cla-bot.
