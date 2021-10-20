@@ -4,7 +4,8 @@
         "heathmill",
         "fmalita",
         "mikerreed",
-        "bodymovin"
+        "bodymovin",
+        "mbasaglia"
     ],
     "message": "We require contributors to sign our Contributor License Agreement, and we don\"t have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @heathmill or @jcgregorio to get yourself added.",
     "label": "cla-signed"
