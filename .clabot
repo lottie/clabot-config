@@ -16,6 +16,6 @@
         "stepancar",
         "dsun3-sc"
     ],
-    "message": "We require contributors to sign our Contributor License Agreement, and we don't have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @heathmill or @jcgregorio to get yourself added.",
+    "message": "We require contributors to sign our Contributor License Agreement, and we don't have {{usersWithoutCLA}} on file.",
     "label": "cla-signed"
 }
